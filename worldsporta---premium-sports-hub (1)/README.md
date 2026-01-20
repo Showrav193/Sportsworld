@@ -14,15 +14,6 @@
    `npm run dev`
 
 ## #######
-     </h1>Team Members <\h1>
-     
-######
 
 ## contact 2022200000193@seu.edu.bd
 ## Name: Showrav Zakir Khan 
-## contact 2022200000171@seu.edu.bd
-## Name: Ashiful Islam Pranto
-## contact 2022200000190@seu.edu.bd
-## Nmae: Mariad Hossain
-## cantact:2022200000192@seu.edu.bd
-## Name; Rubama Imam Chowdhury
